@@ -4,5 +4,6 @@ plugins:
 title: Yongyan Deng
 logo: /assets/img/profile.jpg
 # description:
+repo: https://github.com/YongyanDeng?tab=repositories
 show_downloads: false
 theme: jekyll-remote-theme
