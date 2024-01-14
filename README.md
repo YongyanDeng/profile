@@ -32,6 +32,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 ---
 
 **Grandblue Environment - Foshan, China (_10/2020 - 08/2021_)**
+
 **Full Stack Engineer**
 
 - Full-Stack Development of a WebGIS-Based Information Management System
@@ -44,6 +45,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 ---
 
 **South China Robotics Innovation Research Institute - Guangzhou, China (_04/2018 - 08/2020_)**
+
 **Full Stack Engineer**
 
 - Front-End Development for Industry 4.0 MES System
@@ -54,6 +56,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
   - Accountable for enhancing website compatibility across multiple devices such as iPads and phones, using Media Queries to adjust component sizes and webpage layouts for different device dimensions.
 
 **Pegatron - Suzhou, China (_02/2017 - 06/2017_)**
+
 **Software Engineer Intern**
 
 - Development of Quality Inspection Program for Indoor Temperature Control Terminal
