@@ -2,6 +2,10 @@
 
 #### Techical Skills: React, Nodejs, AWS, SQL
 
+## Summary
+
+Experienced Full Stack/Front-end Engineer with a strong focus on React.js and related technologies. Proficient in the full software development cycle, Agile, and Scrum. Skilled in HTML, CSS, React Bootstrap, Ant Design, and Material UI for responsive design, with backend knowledge in Node.js and various databases. Committed to writing clean, maintainable code and passionate about learning new technologies to enhance user experiences.
+
 ## Educations
 
 - M.S., Software Engineering | Northeastern University, Boston (_May 2023_)
