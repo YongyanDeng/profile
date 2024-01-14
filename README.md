@@ -25,7 +25,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
   - Selected React Router, a routing library, to build the project architecture based on the logic of backend REST APIs, adding views and data flows based on URL relationships.
   - Implemented Server-Side Rendering (SSR) design for the project using the React-based Next.js backend framework, reducing network transmission load and improving website performance.
 
-- Project Code Management and Deployment
+- Project Management and Deployment
   - Used Git for version control and wrote React unit and integration tests for Github Actions using Jest and Enzyme.
   - Wrote Jenkins pipeline for CI/CD and zero downtime deployment for internal development demos.
 
@@ -54,7 +54,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
   - Accountable for enhancing website compatibility across multiple devices such as iPads and phones, using Media Queries to adjust component sizes and webpage layouts for different device dimensions.
 
 **Pegatron - Suzhou, China (_02/2017 - 06/2017_)**
-**Software Engineer Inter**
+**Software Engineer Intern**
 
 - Development of Quality Inspection Program for Indoor Temperature Control Terminal
   - Efficient Data Processing: Helped to utilize C++ for real-time data acquisition from terminal chips and employed Python with “Numpy” for sophisticated data analysis, enhancing terminal performance insights.
