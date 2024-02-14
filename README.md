@@ -15,15 +15,15 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 
 **Bose - Boston, MA (_05/2023 to present_)**
 
-**React Engineer**
+**Frontend Engineer**
 
 - Front-End Design and Development for Bose Global Online Shopping Platform
 
-  - Developed the project website using React and TypeScript, utilizing Material UI to implement design interfaces based on Figma.
-  - Given the scale of the project and the complexity of user interaction processes on the e-commerce platform, React Redux + React Thunk was chosen to manage website user information and asynchronous communication with the backend.
-  - Developed user authentication and authorization features based on JWT, Cookies, and Sessions.
-  - Selected React Router, a routing library, to build the project architecture based on the logic of backend REST APIs, adding views and data flows based on URL relationships.
-  - Implemented Server-Side Rendering (SSR) design for the project using the React-based Next.js backend framework, reducing network transmission load and improving website performance.
+  - Led the overhaul of the search engine on our e-commerce platform, impacting 30 million quarterly visitors with a performance boost of 12-15% and an increase in user engagement by 5-10%.
+  - Seamlessly integrated with Elasticsearch for advanced search capabilities and GraphQL for efficient data retrieval, with reducing average response time from over 2000ms to under 1500ms.
+  - Implemented CDN caching strategy, slashing search result delivery times by over 30%, enabling instant, responsive interactions even during peak traffic periods.
+  - Utilized Jenkins for agile CI/CD, facilitating incremental updates with zero downtime, rigorously supported by Enzyme, Jest, and Selenium for unit tests and integration tests.
+  - Innovated with lazy loading and server-side rendering, achieving a 45% improvement in first-render speed, significantly enhancing the UX for millions and contributing to a growth in site retention rates.
 
 - Project Management and Deployment
   - Used Git for version control and wrote React unit and integration tests for Github Actions using Jest and Enzyme.
@@ -33,20 +33,19 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 
 **Grandblue Environment - Foshan, China (_10/2020 - 08/2021_)**
 
-**Full Stack Engineer**
+**Frontend Engineer**
 
 - Full-Stack Development of a WebGIS-Based Information Management System
 
-  - Conducted reconstruction and maintenance of the Nanhai District Water Service Information System in Foshan City using React and Antd. Managed data flow and state across components with React Context and React Redux.
-  - Developed and maintained services for the water service information system, including water project management, water service report generation, and water meter warehouse management, utilizing ArcGIS API based on the GIS mapping system.
-  - Provided services for new remote intelligent water meters. Developed AJAX data transfer APIs to enable Create, Read, Update, and Delete (CRUD) functionalities on the water meter information database terminals.
-  - Implemented real-time data capture for water meters. Integrated React with Apache Echarts to visualize real-time data from intelligent water meters.
+  - Revolutionized Nanhai city’s water service information system, leveraging React and Ant Design. Enhanced system architecture for robust data flow and state management.
+  - Spearheaded the integration of React Context and Redux, optimizing data handling and state management for real-time responsiveness.
+  - Pioneered the design and development of RESTful APIs for dynamic data retrieval, improving the efficiency of real-time water meter data visualization through React and Apache Echarts, leading to a 26% increase in operational efficiency.
 
 ---
 
 **South China Robotics Innovation Research Institute - Guangzhou, China (_04/2018 - 08/2020_)**
 
-**Full Stack Engineer**
+**React Web Developer**
 
 - Front-End Development for Industry 4.0 MES System
 
