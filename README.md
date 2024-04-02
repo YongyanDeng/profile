@@ -8,7 +8,7 @@
 
 ##### UI Frameworks & Designs: Figma, React Bootstrap, Material UI, Ant Design
 
-##### Database Management: MongoDB, MySQL, Oracle, AWS S3
+##### Database Management: SQL(MySQL), NoSQL(MongoDB), AWS S3
 
 ##### DevOps & Testing: Jenkins, JIRA, GitHub, AWS, Enzyme, Jest, Mocha, Chai, Selenium, Sentry
 
