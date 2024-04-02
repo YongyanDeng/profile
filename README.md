@@ -14,7 +14,7 @@
 
 ## Summary
 
-Experienced Full Stack/Front-end Engineer with a strong focus on React.js and related technologies. Proficient in the full software development cycle, Agile, and Scrum. Skilled in HTML, CSS, React Bootstrap, Ant Design, and Material UI for responsive design, with backend knowledge in Node.js and various databases. Committed to writing clean, maintainable code and passionate about learning new technologies to enhance user experiences.
+An experienced Front-end Developer proficient in React.js and Vue.js, with a strong foundation in modern HTML CSS and JavaScript technologies. I specialize in building responsive, user-centric web applications, leveraging React, Vue, and integrating backend services using Node.js. Committed to agile development principles and clean code practices, I am eager to contribute to innovative projects in a collaborative, dynamic environment.
 
 ## Educations
 
