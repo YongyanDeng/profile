@@ -8,8 +8,8 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 
 ## Educations
 
-- M.S., Software Engineering | Northeastern University, Boston (_May 2023_)
-- B.S., Engineering in Control & Measure Technology and Instrumentations | Nanjing University of Posts & Telecommunications (_July 2017_)
+- M.S. in Software Engineering | Northeastern University, Boston - _Sep 2021 to May 2023_
+- B.E. in Engineering in Control & Measure Technology and Instrumentations | Nanjing University of Posts & Telecommunications - _Sep 2013 to July 2017_
 
 ## Work Experience
 
@@ -31,7 +31,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 
 ---
 
-**Grandblue Environment - Foshan, China (_10/2020 - 08/2021_)**
+**Grandblue Environment - Foshan, China (_09/2020 - 08/2021_)**
 
 **Frontend Engineer**
 
@@ -43,7 +43,7 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
 
 ---
 
-**South China Robotics Innovation Research Institute - Guangzhou, China (_04/2018 - 08/2020_)**
+**South China Robotics Innovation Research Institute - Guangzhou, China (_08/2017 - 08/2020_)**
 
 **React Web Developer**
 
@@ -53,6 +53,8 @@ Experienced Full Stack/Front-end Engineer with a strong focus on React.js and re
   - Utilized Apache Echarts to develop real-time online charts for web pages, and implemented intelligent management and visualization of production data on both web and MyScada platforms.
   - Developed APIs based on React Thunk, responsible for providing Create, Read, Update, and Delete (CRUD) functionalities for server-side production task data and ERP database.
   - Accountable for enhancing website compatibility across multiple devices such as iPads and phones, using Media Queries to adjust component sizes and webpage layouts for different device dimensions.
+
+---
 
 **Pegatron - Suzhou, China (_02/2017 - 06/2017_)**
 
