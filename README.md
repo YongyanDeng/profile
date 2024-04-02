@@ -1,6 +1,16 @@
 # Front End Engineer / Full Stack Engineer
 
-#### Techical Skills: React, Nodejs, AWS, SQL
+#### Techical Skills:
+
+##### Languages: JavaScript, TypeScript, SQL, C++, Java
+
+##### Web Developments: HTML, CSS, SASS, Vue, React, React Native, React Redux, React Thunk, React Router, Next.js, Node.js, Express.js, GraphQL, RESTful APIs
+
+##### UI Frameworks & Designs: Figma, React Bootstrap, Material UI, Ant Design
+
+##### Database Management: MongoDB, MySQL, Oracle, AWS S3
+
+##### DevOps & Testing: Jenkins, JIRA, GitHub, AWS, Enzyme, Jest, Mocha, Chai, Selenium, Sentry
 
 ## Summary
 
