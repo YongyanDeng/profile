@@ -29,11 +29,10 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 
 - Front-End Design and Development for Bose Global Online Shopping Platform
 
-  - Led the overhaul of the search engine on our e-commerce platform, impacting 30 million quarterly visitors with a performance boost of 12-15% and an increase in user engagement by 5-10%.
-  - Seamlessly integrated with Elasticsearch for advanced search capabilities and GraphQL for efficient data retrieval, with reducing average response time from over 2000ms to under 1500ms.
-  - Implemented CDN caching strategy, slashing search result delivery times by over 30%, enabling instant, responsive interactions even during peak traffic periods.
-  - Utilized Jenkins for agile CI/CD, facilitating incremental updates with zero downtime, rigorously supported by Enzyme, Jest, and Selenium for unit tests and integration tests.
-  - Innovated with lazy loading and server-side rendering, achieving a 45% improvement in first-render speed, significantly enhancing the UX for millions and contributing to a growth in site retention rates.
+  - Responsible for the API integration efforts on the e-commerce platform’s search engine, impacting over 8 million monthly visits with enhanced search capabilities.
+  - Collaborated closely with the backend team to utilize a newly established Elasticsearch server and improved the speed and accuracy of search results.
+  - Successfully implemented GraphQL with Apollo client and server, optimizing the metadata retrieval process, and significantly reducing search result latency by 10%. Developed a CDN caching strategy that improved the speed and responsiveness of user searches.
+  - Boosted site first-render speed by 12%, employing lazy loading and optimizing caching mechanisms. Experimented with server-side rendering using Next.js to deliver a marked improvement in site load times and user experience.
 
 - Project Management and Deployment
   - Used Git for version control and wrote React unit and integration tests for Github Actions using Jest and Enzyme.
