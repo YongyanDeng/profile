@@ -1,6 +1,6 @@
 # Front End Engineer / Full Stack Engineer
 
-#### Techical Skills:
+## Techical Skills:
 
 ##### Languages: JavaScript, TypeScript, SQL, C++, Java
 
