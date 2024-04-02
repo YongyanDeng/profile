@@ -1,4 +1,4 @@
-# Full Stack / Frontend Engineer
+# Front End Engineer / Full Stack Engineer
 
 #### Techical Skills: React, Nodejs, AWS, SQL
 
