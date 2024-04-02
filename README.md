@@ -19,7 +19,7 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 ## Educations
 
 - M.S. in Software Engineering | Northeastern University, Boston - _Sep 2021 to May 2023_
-- B.E. in Engineering in Control & Measure Technology and Instrumentations | Nanjing University of Posts & Telecommunications - _Sep 2013 to July 2017_
+- B.E. in Control & Measure Technology and Instrumentations | Nanjing University of Posts & Telecommunications - _Sep 2013 to July 2017_
 
 ## Work Experience
 
