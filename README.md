@@ -73,9 +73,3 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
   - Efficient Data Processing: Helped to utilize C++ for real-time data acquisition from terminal chips and employed Python with “Numpy” for sophisticated data analysis, enhancing terminal performance insights.
   - Algorithmic Enhancement: Implemented algorithms that improved calculations, leading to enhanced work efficiency.
   - Reliability Assurance: Developed routines to identify anomalies in chip behavior, ensuring the reliability and robustness of the temperature control terminal.
-
-<style>
-  .view {
-    display: none !important;
-  }
-</style>
