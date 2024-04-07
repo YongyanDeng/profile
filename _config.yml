@@ -2,6 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: Yongyan Deng
+email: deng.yo@northeastern.edu
+url: https://yongyandeng.github.io
 logo: /assets/img/profile.jpg
 # description:
 repo: https://github.com/YongyanDeng?tab=repositories
