@@ -3,7 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Yongyan Deng
 email: deng.yo@northeastern.edu
-baseurl: "https://yongyandeng.github.io"
 url: "https://yongyandeng.github.io/profile"
 logo: /assets/img/profile.jpg
 # description:
