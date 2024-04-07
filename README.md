@@ -54,7 +54,7 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 
 **South China Robotics Innovation Research Institute - Guangzhou, China (_08/2017 - 08/2020_)**
 
-**React Web Developer**
+**Full Stack Developer**
 
 - Front-End Development for Industry 4.0 MES System
 
