@@ -14,7 +14,7 @@
 
 ## Summary
 
-An experienced Front-end Developer proficient in React.js and Vue.js, with a strong foundation in modern HTML CSS and JavaScript technologies. I specialize in building responsive, user-centric web applications, leveraging React, Vue, and integrating backend services using Node.js. Committed to agile development principles and clean code practices, I am eager to contribute to innovative projects in a collaborative, dynamic environment.
+An experienced Full Stack Developer proficient in React.js and Vue.js, with a strong foundation in modern HTML CSS and JavaScript technologies. I specialize in building responsive, user-centric web applications, leveraging React, Vue, and integrating backend services using Node.js. Committed to agile development principles and clean code practices, I am eager to contribute to innovative projects in a collaborative, dynamic environment.
 
 ## Educations
 
