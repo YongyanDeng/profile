@@ -25,7 +25,7 @@ An experienced Full Stack Developer proficient in React.js and Vue.js, with a st
 
 **Chuwa America - Santa Clara, CA (_09/2023 to present_)**
 
-**Full Stack Developer**
+**Full Stack Developer - Unpaid Contract**
 
 - Front-End Design and Development for Bose eCommerce Platform
 
