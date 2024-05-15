@@ -23,11 +23,11 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 
 ## Work Experience
 
-**Bose - Boston, MA (_05/2023 to present_)**
+**Chuwa America - Santa Clara, CA (_09/2023 to present_)**
 
-**Frontend Engineer**
+**Full Stack Developer**
 
-- Front-End Design and Development for Bose Global Online Shopping Platform
+- Front-End Design and Development for Bose eCommerce Platform
 
   - Responsible for the API integration efforts on the e-commerce platform’s search engine, impacting over 8 million monthly visits with enhanced search capabilities.
   - Collaborated closely with the backend team to utilize a newly established Elasticsearch server and improved the speed and accuracy of search results.
@@ -40,9 +40,9 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 
 ---
 
-**Grandblue Environment - Foshan, China (_09/2020 - 08/2021_)**
+**Grandblue Environment - Foshan, China (_01/2021 - 08/2021_)**
 
-**Frontend Engineer**
+**Full Stack Developer**
 
 - Full-Stack Development of a WebGIS-Based Information Management System
 
@@ -54,7 +54,7 @@ An experienced Front-end Developer proficient in React.js and Vue.js, with a str
 
 **South China Robotics Innovation Research Institute - Guangzhou, China (_08/2017 - 08/2020_)**
 
-**React Web Developer**
+**Web Developer**
 
 - Front-End Development for Industry 4.0 MES System
 
