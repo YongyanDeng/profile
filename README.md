@@ -17,8 +17,11 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 - B.E. in Control & Measure Technology and Instrumentations | Nanjing University of Posts & Telecommunications - _Sep 2013 to July 2017_
 
 ## Work Experience
+
 **FlexShopper - Boca Raton, FL | Onsite (_06/2024 to _08/2025)**
+
 **Full Stack Developer**
+
 - Contributed to building the internal microsites platform using React, Bun, and TypeScript, establishing a modular architecture for scalable frontend development.
 - Helped refactor gamerex.co and store.flexshopper.com on top of the newly developed microsites architecture, enabling modular and scalable development for over 50,000 products across 50+ categories.
 - Built core features including product listings, detail pages, cart, and checkout, integrated with Adobe Magento 2 for real-time product and inventory data.
@@ -29,7 +32,9 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 ---
 
 **Chuwa America - Santa Clara, CA | Remote (_05/2023 to _05/2024)**
+
 **Full Stack Developer**
+
 - Front-End Design and Development for eCommerce Platform
   - Built responsive UIs with React hooks and media queries, developing reusable components for various viewports.
   - Developed and integrated RESTful APIs to connect the frontend with a newly deployed Elasticsearch server, improving search accuracy and speed.
@@ -42,7 +47,9 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 ---
 
 **Grandblue Environment - Foshan, China | Onsite (_10/2020 - 08/2021_)**
+
 **Full Stack Developer**
+
 - Full-Stack Development of a WebGIS-Based Information Management System
   - Revolutionized Nanhai city’s water service information system, leveraging React and Ant Design. Enhanced system architecture for robust data flow and state management.
   - Spearheaded the integration of React Context and Redux, optimizing data handling and state management for real-time responsiveness.
@@ -51,7 +58,9 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 ---
 
 **South China Robotics Innovation Research Institute - Guangzhou, China | Onsite (_08/2017 - 08/2020_)**
+
 **Web Developer**
+
 - Front-End Development for Industry 4.0 MES System
   - Developed and maintained an automated production line MES (Manufacturing Execution System) for production orders using React and Antd. Integrated with 3D modeling software Blender, and developed 3D model display components using Three.js, JSON, and Canvas, including functionality for customers to customize the appearance of production models.
   - Utilized Apache Echarts to develop real-time online charts for web pages, and implemented intelligent management and visualization of production data on both web and MyScada platforms.
@@ -61,7 +70,9 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 ---
 
 **Pegatron - Suzhou, China (_02/2017 - 06/2017_)**
+
 **Software Engineer Intern**
+
 - Development of Quality Inspection Program for Indoor Temperature Control Terminal
   - Efficient Data Processing: Helped to utilize C++ for real-time data acquisition from terminal chips and employed Python with “Numpy” for sophisticated data analysis, enhancing terminal performance insights.
   - Algorithmic Enhancement: Implemented algorithms that improved calculations, leading to enhanced work efficiency.
