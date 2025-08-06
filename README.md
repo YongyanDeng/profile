@@ -23,15 +23,28 @@ An experienced Full Stack Developer proficient in React.js and Vue.js, with a st
 
 ## Work Experience
 
-**Chuwa America - Santa Clara, CA (_09/2023 to present_)**
+**FlexShopper - Boca Raton, FL | Onsite (_06/2024 to _08/2025)**
 
 **Full Stack Developer**
 
-- Front-End Design and Development for Bose eCommerce Platform
+- Contributed to building the internal microsites platform using React, Bun, and TypeScript, establishing a modular architecture for scalable frontend development.
+- Helped refactor gamerex.co and store.flexshopper.com on top of the newly developed microsites architecture, enabling modular and scalable development for over 50,000 products across 50+ categories.
+- Built core features including product listings, detail pages, cart, and checkout, integrated with Adobe Magento 2 for real-time product and inventory data.
+- Developed the BestBuy In-Store Pickup query by GraphQL batching, session-state sync, and custom React context.
+- Engineered a robust CMS hydration pipeline to dynamically render over 50 backend-authored pages, supporting both server-side and client-side React rendering for seamless content delivery.
+- Built a reusable component library with React Cosmos, and implemented consistent theming using Emotion CSS and design tokens for scalable, brand-aligned UI.
 
-  - Responsible for the API integration efforts on the e-commerce platform’s search engine, impacting over 8 million monthly visits with enhanced search capabilities.
-  - Collaborated closely with the backend team to utilize a newly established Elasticsearch server and improved the speed and accuracy of search results.
-  - Successfully implemented GraphQL with Apollo client and server, optimizing the metadata retrieval process, and significantly reducing search result latency by 10%. Developed a CDN caching strategy that improved the speed and responsiveness of user searches.
+---
+
+**Chuwa America - Santa Clara, CA | Remote (_05/2023 to _05/2024)**
+
+**Full Stack Developer**
+
+- Front-End Design and Development for eCommerce Platform
+
+  - Built responsive UIs with React hooks and media queries, developing reusable components for various viewports.
+  - Developed and integrated RESTful APIs to connect the frontend with a newly deployed Elasticsearch server, improving search accuracy and speed.
+  - Implemented GraphQL with Apollo client and server, optimizing the metadata retrieval process, and significantly reducing search result latency by 10%. Developed a CDN caching strategy that improved the speed and responsiveness of user searches.
   - Boosted site first-render speed by 12%, employing lazy loading and optimizing caching mechanisms. Experimented with server-side rendering using Next.js to deliver a marked improvement in site load times and user experience.
 
 - Project Management and Deployment
@@ -40,7 +53,7 @@ An experienced Full Stack Developer proficient in React.js and Vue.js, with a st
 
 ---
 
-**Grandblue Environment - Foshan, China (_01/2021 - 08/2021_)**
+**Grandblue Environment - Foshan, China | Onsite (_10/2020 - 08/2021_)**
 
 **Full Stack Developer**
 
@@ -52,7 +65,7 @@ An experienced Full Stack Developer proficient in React.js and Vue.js, with a st
 
 ---
 
-**South China Robotics Innovation Research Institute - Guangzhou, China (_08/2017 - 08/2020_)**
+**South China Robotics Innovation Research Institute - Guangzhou, China | Onsite (_08/2017 - 08/2020_)**
 
 **Web Developer**
 
