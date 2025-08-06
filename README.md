@@ -18,7 +18,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ## Work Experience
 
-**FlexShopper - Boca Raton, FL | Onsite (_06/2024 - 08/2025_)**
+### FlexShopper - Boca Raton, FL | Onsite (_06/2024 - 08/2025_)
 
 **Full Stack Developer**
 
@@ -31,7 +31,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ---
 
-**Chuwa America - Santa Clara, CA | Remote (_05/2023 - 05/2024_)**
+### Chuwa America - Santa Clara, CA | Remote (_05/2023 - 05/2024_)
 
 **Full Stack Developer**
 
@@ -46,7 +46,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ---
 
-**Grandblue Environment - Foshan, China | Onsite (_10/2020 - 08/2021_)**
+### Grandblue Environment - Foshan, China | Onsite (_10/2020 - 08/2021_)
 
 **Full Stack Developer**
 
@@ -57,7 +57,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ---
 
-**South China Robotics Innovation Research Institute - Guangzhou, China | Onsite (_08/2017 - 08/2020_)**
+### South China Robotics Innovation Research Institute - Guangzhou, China | Onsite (_08/2017 - 08/2020_)
 
 **Web Developer**
 
@@ -69,7 +69,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ---
 
-**Pegatron - Suzhou, China (_02/2017 - 06/2017_)**
+### Pegatron - Suzhou, China | Onsite (_02/2017 - 06/2017_)
 
 **Software Engineer Intern**
 
