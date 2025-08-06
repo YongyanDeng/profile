@@ -18,7 +18,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ## Work Experience
 
-**FlexShopper - Boca Raton, FL | Onsite (_06/2024 to _08/2025)**
+**FlexShopper - Boca Raton, FL | Onsite (_06/2024 - 08/2025_)**
 
 **Full Stack Developer**
 
@@ -31,7 +31,7 @@ Full Stack Developer experienced in building scalable e-commerce platforms with 
 
 ---
 
-**Chuwa America - Santa Clara, CA | Remote (_05/2023 to _05/2024)**
+**Chuwa America - Santa Clara, CA | Remote (_05/2023 - 05/2024_)**
 
 **Full Stack Developer**
 
